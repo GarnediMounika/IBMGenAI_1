@@ -3,8 +3,6 @@
 
 This project demonstrates how different decoding techniques affect the text output from a pre-trained language model (GPT-2). It provides a comparative analysis of common decoding strategies such as greedy decoding, temperature sampling, top-k sampling, and nucleus (top-p) sampling.
 
----
-
 ## Objective
 
 To understand and analyze how decoding strategies influence:
@@ -12,7 +10,6 @@ To understand and analyze how decoding strategies influence:
 - Coherence
 - Creativity of generated text
 
----
 
 ## Setup
 
@@ -20,7 +17,7 @@ To understand and analyze how decoding strategies influence:
 - Hugging Face Transformers
 - Jupyter Notebook or Google Colab
 
-```bash
+
 pip install transformers
 
 # Tasks Overview
